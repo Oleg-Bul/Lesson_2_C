@@ -1,0 +1,15 @@
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\bin\Debug\net6.0\Example_2.exe
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\bin\Debug\net6.0\Example_2.deps.json
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\bin\Debug\net6.0\Example_2.runtimeconfig.json
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\bin\Debug\net6.0\Example_2.dll
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\bin\Debug\net6.0\Example_2.pdb
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\Example_2.csproj.AssemblyReference.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\Example_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\Example_2.AssemblyInfoInputs.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\Example_2.AssemblyInfo.cs
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\Example_2.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\Example_2.dll
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\refint\Example_2.dll
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\Example_2.pdb
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\Example_2.genruntimeconfig.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_2_introArray\obj\Debug\net6.0\ref\Example_2.dll
