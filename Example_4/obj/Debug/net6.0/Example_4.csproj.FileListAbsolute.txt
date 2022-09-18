@@ -1,0 +1,15 @@
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\bin\Debug\net6.0\Example_4.exe
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\bin\Debug\net6.0\Example_4.deps.json
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\bin\Debug\net6.0\Example_4.runtimeconfig.json
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\bin\Debug\net6.0\Example_4.dll
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\bin\Debug\net6.0\Example_4.pdb
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\Example_4.csproj.AssemblyReference.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\Example_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\Example_4.AssemblyInfoInputs.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\Example_4.AssemblyInfo.cs
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\Example_4.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\Example_4.dll
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\refint\Example_4.dll
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\Example_4.pdb
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\Example_4.genruntimeconfig.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\Лекция 2\New_folder\Example_4\obj\Debug\net6.0\ref\Example_4.dll
